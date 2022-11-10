@@ -45,3 +45,5 @@ In order to convince investors to establish a bike-sharing program in Des Moines
 - An additional visualization that would be very helpful would possibly include bikeriding data across all four seasons, which would help identify usage rates 
 throughout the year.
 - Another visualization that would help could include the average mileage per rider. This data can be used to adjust cost rates by the second, minute, and hour to determine a rate that all users can agree upon as fair.
+
+
