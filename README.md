@@ -1,4 +1,4 @@
-# Bike Sharing - NY Citi Bike with Tableau
+# Bike Sharing - NYC Citi Bike with Tableau
 
 ## Overview of Project
 In order to convince investors to establish a bike-sharing program in Des Moines, Iowa, we must analyze New York City's Citibike to present visualizations that show  check out times, hourly, and daily bike trips across all users and genders.
